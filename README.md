@@ -12,6 +12,7 @@
 🌟效果图
 
 <div style="float:left;">
-
+<img src="https://github.com/Case-Closed-X/Android-Present-Application/blob/b0c829ecb6b87628256a0c2dfc27d0b0119f3817/images/main.jpg" width="270px" height="600px" />
+<img src="https://github.com/Case-Closed-X/Android-Present-Application/blob/b0c829ecb6b87628256a0c2dfc27d0b0119f3817/images/about.jpg" width="270px" height="600px" />
 </div>
 
